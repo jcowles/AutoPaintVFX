@@ -1,7 +1,8 @@
 # AutoPaintVFX
-Approximates a painterly effect using Unity, HDRP, and VFX Graph
+Approximates a painterly effect using Unity, HDRP, and VFX Graph. The effect should be considered a starting point, it's inefficient and glitchy, just a proof of concept.
 
-The effect should be considered a starting point, it's inefficient and glitchy, just a proof of concept.
+![Screenshot](Assets/Textures/screenshot.PNG)
+
 
 **Provided under MIT License:**
 
