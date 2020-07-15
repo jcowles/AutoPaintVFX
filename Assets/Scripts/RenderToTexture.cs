@@ -8,7 +8,7 @@ public class RenderToTexture : MonoBehaviour
 
   void Update()
   {
-    // This is super hakcy, just quick-and-dirty for this demo.
+    // This is super hacky, just quick-and-dirty for this demo.
     // Also rendering thousands of particles for the effect could be reduced by orders of magnitudes.
     // (Again, everything is quick and dirty for this demo).
     Camera.main.targetTexture = m_TargetTexture;
